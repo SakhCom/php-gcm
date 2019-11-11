@@ -25,7 +25,7 @@ final class Constants {
     /**
      * Endpoint for sending messages.
      */
-    public static $GCM_SEND_ENDPOINT = 'https://android.googleapis.com/gcm/send';
+    public static $GCM_SEND_ENDPOINT = 'https://fcm.googleapis.com/fcm/send';
 
     /**
      * HTTP parameter for registration id.
